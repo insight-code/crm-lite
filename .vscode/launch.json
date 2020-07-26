@@ -2,10 +2,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Attach to Node Functions",
+            "name": "Debug Function App",
             "type": "node",
             "request": "attach",
-            "port": 7071,
+            "port": 5858,
             "preLaunchTask": "func: host start"
         }
     ]
