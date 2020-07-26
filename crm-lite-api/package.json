@@ -4,8 +4,10 @@
   "description": "",
   "scripts": {
     "start": "func start",
-    "test": "echo \"No tests yet...\""
+    "test": "jasmine"
   },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "jasmine": "^3.6.1"
+  }
 }
